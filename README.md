@@ -3,6 +3,7 @@
 This C++ program takes user input to determine the size of a vector, reads a sequence of integers, stores them in the vector, and prints the integers in descending order.
 
 Example: 
+
 Input:
 5
 10 8 15 3 7
