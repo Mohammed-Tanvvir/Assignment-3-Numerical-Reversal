@@ -1,13 +1,3 @@
-/*==========================================================
-
- Title:       Assignment 3 - Numerical Reversal
- Course:      CIS 2252
- Author:      <Mohammed Tanvvir>
- Date:        <07 /05 / 2023 >
- Description: This program ....
-
- ==========================================================
-*/
 #include <iostream>
 #include <string>
 #include <cmath>
